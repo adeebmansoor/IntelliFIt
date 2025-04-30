@@ -15,7 +15,7 @@ ai-pose-reps-tracker/
 
 1. **Clone or Download the Project**
    ```bash
-   git clone https://github.com/divyaanshitoria/iNtellifit_Ai_Fitness_companion/
+   git clone https://github.com/adeebmansoor/IntelliFit/ 
    cd ai-pose-reps-tracker
    ```
 
