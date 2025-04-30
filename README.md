@@ -7,6 +7,7 @@ Intellifit’s AI-driven performance evaluation and correction system provides p
 Beyond form correction, Intellifit tracks performance metrics such as range of motion, speed, and consistency, offering personalized recommendations based on fitness levels and goals. By ensuring proper execution, minimizing injury risks, and adapting to user progress, Intellifit transforms workouts into safe, efficient, and results-driven experiences with real-time, AI-powered precision. 
 
 ## 📁 Project Structure
+ai-pose-reps-tracker/
 ├── ai pose and reps tracker.ipynb
 └── README.md (you are here)
 
