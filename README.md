@@ -8,8 +8,8 @@ Beyond form correction, Intellifit tracks performance metrics such as range of m
 
 ## 📁 Project Structure
 ai-pose-reps-tracker/
-├── ai pose and reps tracker.ipynb
-└── README.md (you are here)
+~ ai pose and reps tracker.ipynb
+~ README.md (you are here)
 
 ## 🚀 How to Set Up and Run the Project
 
